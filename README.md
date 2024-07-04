@@ -8,15 +8,6 @@ Classification: It predicts the class of the dataset based on the independent in
 
 Regression: It predicts the continuous output variables based on the independent input variable. like the prediction of house prices based on different parameters like house age, distance from the main road, location, area, etc.
 
-## Files in the Repository
-
-- **Data**: Contains the datasets used for training and testing the ML models.
-- **K Mean Clustering**: Implements K-Means Clustering algorithm for unsupervised learning.
-- **KNN classifier**: Implements K-Nearest Neighbors (KNN) algorithm for supervised learning.
-- **Linear Regression**: Implements Linear Regression algorithm for supervised learning.
-- **Logistic Regression**: Implements Logistic Regression algorithm for supervised learning.
-- **Neural_Network**: Contains deep learning models implemented using neural networks.
-- **README.md**: Project documentation.
 
 ## Installation
 
